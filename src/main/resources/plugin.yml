@@ -1,0 +1,14 @@
+name: GlobalX
+version: '${version}'
+main: com.revivehost.globalx.GlobalX
+api-version: 1.18
+authors: [ Knotam, Fxcilities ]
+website: https://revivehost.com
+
+commands:
+  gms:
+    description: Quickly set own gamemode to survival
+    usage: /<command>
+  gmc:
+    description: Quickly set own gamemode to creative
+    usage: /<command>

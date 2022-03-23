@@ -1,0 +1,10 @@
+DeathBans: true
+
+CustomJoinMessages:
+  enabled: true
+  message: "&a{player} has joined the server"
+
+CustomLeaveMessages:
+  enabled: true
+  message: "&a{player} has left the server"
+
